@@ -1,7 +1,7 @@
 ### Select a restaurant:
-[Omonia Cafe](#)
+#### [Omonia Cafe](#)
+#### [Something Greek](#)
 
-[Something Greek](#)
 ----
 ### Back to European:
 [Start Over](European.md)
